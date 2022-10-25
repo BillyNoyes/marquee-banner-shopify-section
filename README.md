@@ -1,4 +1,5 @@
-<img src="https://s1.gifyu.com/images/ezgif.com-gif-maker-3157bdc4e8786d6df.gif" width="100%">
+![Marquee Banner Shopify Section Example](https://s1.gifyu.com/images/ezgif.com-gif-maker-3157bdc4e8786d6df.gif)
+
 
 # Marquee Banner Shopify Section
 
